@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ https://www.frontendmentor.io/solutions/3card-component-p6mW-xqhEL ]
 - Live Site URL: [ https://mi-olak.github.io/preview-card/ ]
 
 ## My process
